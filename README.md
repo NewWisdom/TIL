@@ -16,4 +16,9 @@
 ### Java
 * [메소드 참조 / 2020.12.23](https://velog.io/@new_wisdom/Java-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%B0%B8%EC%A1%B0)
 * [Optional 클래스 / 2020.12.23](https://velog.io/@new_wisdom/Java-Optional-%ED%81%B4%EB%9E%98%EC%8A%A4)
-* [Stream (스트림) / 2020.12.24](https://velog.io/@new_wisdom/Java-%EC%8A%A4%ED%8A%B8%EB%A6%BC)
+* [Stream (스트림)-1 / 2020.12.24](https://velog.io/@new_wisdom/Java-%EC%8A%A4%ED%8A%B8%EB%A6%BC)
+* [Stream (스트림)-2 / 2020.12.25](https://velog.io/@new_wisdom/Java-Stream-%EC%8A%A4%ED%8A%B8%EB%A6%BC-2)
+
+### Spring
+#### 스프링 입문
+* [프로젝트 환경설정 / 2020.12.25](https://velog.io/@new_wisdom/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-1-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95)
