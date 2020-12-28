@@ -24,6 +24,7 @@
 ### Spring
 #### 스프링 입문
 * [프로젝트 환경설정 / 2020.12.25](https://velog.io/@new_wisdom/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-1-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95)
+* [스프링 웹 개발 기초 / 2020.12.27](https://velog.io/@new_wisdom/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-2-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%EA%B8%B0%EC%B4%88)
 
 
 ### Algorithm
