@@ -38,3 +38,5 @@
 * [3. 타입과 추상화 / 2021.01.23](https://velog.io/@new_wisdom/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%82%AC%EC%8B%A4%EA%B3%BC-%EC%98%A4%ED%95%B4-03-%ED%83%80%EC%9E%85%EA%B3%BC-%EC%B6%94%EC%83%81%ED%99%94)
 * [4. 역할, 책임, 협력 / 2021.01.24](https://velog.io/@new_wisdom/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%82%AC%EC%8B%A4%EA%B3%BC-%EC%98%A4%ED%95%B4-4.-%EC%97%AD%ED%95%A0-%EC%B1%85%EC%9E%84-%ED%98%91%EB%A0%A5)
 * [5. 책임과 메시지 / 2021.01.24](https://velog.io/@new_wisdom/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%82%AC%EC%8B%A4%EA%B3%BC-%EC%98%A4%ED%95%B4-5.-%EC%B1%85%EC%9E%84%EA%B3%BC-%EB%A9%94%EC%8B%9C%EC%A7%80)
+* [6. 객체 지도 / 2021.01.25](https://velog.io/@new_wisdom/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%82%AC%EC%8B%A4%EA%B3%BC-%EC%98%A4%ED%95%B4-6.-%EA%B0%9D%EC%B2%B4-%EC%A7%80%EB%8F%84)
+* [7. 함께 모으기 / 2021.01.25](https://velog.io/@new_wisdom/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%82%AC%EC%8B%A4%EA%B3%BC-%EC%98%A4%ED%95%B4-7.-%ED%95%A8%EA%BB%98-%EB%AA%A8%EC%9C%BC%EA%B8%B0)
