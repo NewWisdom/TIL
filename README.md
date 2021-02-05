@@ -20,7 +20,6 @@
 * [Optional 클래스 / 2020.12.23](https://velog.io/@new_wisdom/Java-Optional-%ED%81%B4%EB%9E%98%EC%8A%A4)
 * [Stream (스트림)-1 / 2020.12.24](https://velog.io/@new_wisdom/Java-%EC%8A%A4%ED%8A%B8%EB%A6%BC)
 * [Stream (스트림)-2 / 2020.12.25](https://velog.io/@new_wisdom/Java-Stream-%EC%8A%A4%ED%8A%B8%EB%A6%BC-2)
----
 
 ### Spring
 #### 스프링 입문
@@ -36,6 +35,7 @@
 ## WoowaCourse
 ### level1
 * [[JUnit5] 내가 정리한 JUnit5 / 2021.02.04](https://velog.io/@new_wisdom/Junit)
+* [[assertJ] 공식문서와 함께하는 assertJ 정리 / 2021.02.05](https://velog.io/@new_wisdom/assertJ-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-assertJ-%EC%A0%95%EB%A6%AC)
 
 ## Books
 ### 객체지향의 사실과 오해
