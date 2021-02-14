@@ -20,8 +20,9 @@
 * [Optional 클래스 / 2020.12.23](https://velog.io/@new_wisdom/Java-Optional-%ED%81%B4%EB%9E%98%EC%8A%A4)
 * [Stream (스트림)-1 / 2020.12.24](https://velog.io/@new_wisdom/Java-%EC%8A%A4%ED%8A%B8%EB%A6%BC)
 * [Stream (스트림)-2 / 2020.12.25](https://velog.io/@new_wisdom/Java-Stream-%EC%8A%A4%ED%8A%B8%EB%A6%BC-2)
-
+* [[Effective java] item 1. 생성자 대신 정적 팩터리 메서드를 고려하라 / 2021.02.14](https://velog.io/@new_wisdom/Effective-java-item-1.-%EC%83%9D%EC%84%B1%EC%9E%90-%EB%8C%80%EC%8B%A0-%EC%A0%95%EC%A0%81-%ED%8C%A9%ED%84%B0%EB%A6%AC-%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC-%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC)
 ### Spring
+
 #### 스프링 입문
 * [프로젝트 환경설정 / 2020.12.25](https://velog.io/@new_wisdom/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-1-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95)
 * [스프링 웹 개발 기초 / 2020.12.27](https://velog.io/@new_wisdom/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-2-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%EA%B8%B0%EC%B4%88)
