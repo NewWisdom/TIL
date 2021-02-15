@@ -22,6 +22,8 @@
 * [Stream (스트림)-2 / 2020.12.25](https://velog.io/@new_wisdom/Java-Stream-%EC%8A%A4%ED%8A%B8%EB%A6%BC-2)
 * [[Java] 배열의 깊은 복사와 얕은 복사 / 2021.02.10](https://velog.io/@new_wisdom/Java-%EB%B0%B0%EC%97%B4%EC%9D%98-%EA%B9%8A%EC%9D%80-%EB%B3%B5%EC%82%AC%EC%99%80-%EC%96%95%EC%9D%80-%EB%B3%B5%EC%82%AC)
 * [[Effective java] item 1. 생성자 대신 정적 팩터리 메서드를 고려하라 / 2021.02.14](https://velog.io/@new_wisdom/Effective-java-item-1.-%EC%83%9D%EC%84%B1%EC%9E%90-%EB%8C%80%EC%8B%A0-%EC%A0%95%EC%A0%81-%ED%8C%A9%ED%84%B0%EB%A6%AC-%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC-%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC)
+* [[JUnit5] 내가 정리한 JUnit5 / 2021.02.04](https://velog.io/@new_wisdom/Junit)
+* [[assertJ] 공식문서와 함께하는 assertJ 정리 / 2021.02.05](https://velog.io/@new_wisdom/assertJ-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-assertJ-%EC%A0%95%EB%A6%AC)
 
 ### Spring
 
@@ -37,8 +39,7 @@
 
 ## WoowaCourse
 ### level1
-* [[JUnit5] 내가 정리한 JUnit5 / 2021.02.04](https://velog.io/@new_wisdom/Junit)
-* [[assertJ] 공식문서와 함께하는 assertJ 정리 / 2021.02.05](https://velog.io/@new_wisdom/assertJ-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-assertJ-%EC%A0%95%EB%A6%AC)
+* [[우아한 테크코스 : Level 1] 자동차 경주 게임 코드 리뷰 정리 / 2021.02.09-2021.02.15](https://velog.io/@new_wisdom/%EC%9A%B0%EC%95%84%ED%95%9C-%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-Level-1-%EC%9E%90%EB%8F%99%EC%B0%A8-%EA%B2%BD%EC%A3%BC-%EA%B2%8C%EC%9E%84-1%EB%8B%A8%EA%B3%84-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0-%EC%A0%95%EB%A6%AC)
 
 ## Books
 ### 객체지향의 사실과 오해
