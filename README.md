@@ -20,7 +20,9 @@
 * [Optional 클래스 / 2020.12.23](https://velog.io/@new_wisdom/Java-Optional-%ED%81%B4%EB%9E%98%EC%8A%A4)
 * [Stream (스트림)-1 / 2020.12.24](https://velog.io/@new_wisdom/Java-%EC%8A%A4%ED%8A%B8%EB%A6%BC)
 * [Stream (스트림)-2 / 2020.12.25](https://velog.io/@new_wisdom/Java-Stream-%EC%8A%A4%ED%8A%B8%EB%A6%BC-2)
+* [[Java] 배열의 깊은 복사와 얕은 복사 / 2021.02.10](https://velog.io/@new_wisdom/Java-%EB%B0%B0%EC%97%B4%EC%9D%98-%EA%B9%8A%EC%9D%80-%EB%B3%B5%EC%82%AC%EC%99%80-%EC%96%95%EC%9D%80-%EB%B3%B5%EC%82%AC)
 * [[Effective java] item 1. 생성자 대신 정적 팩터리 메서드를 고려하라 / 2021.02.14](https://velog.io/@new_wisdom/Effective-java-item-1.-%EC%83%9D%EC%84%B1%EC%9E%90-%EB%8C%80%EC%8B%A0-%EC%A0%95%EC%A0%81-%ED%8C%A9%ED%84%B0%EB%A6%AC-%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC-%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC)
+
 ### Spring
 
 #### 스프링 입문
