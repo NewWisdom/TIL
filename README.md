@@ -54,3 +54,6 @@
 
 ### 오브젝트
 * [오브젝트 소스코드 따라치기 / 2021.01.30 ~](https://github.com/NewWisdom/Book-Object)
+
+### 독서 감상문
+* [[독서] 코딩을 지탱하는 기술을 읽고 / 2021.02.16](https://velog.io/@new_wisdom/%EB%8F%85%EC%84%9C-%EC%BD%94%EB%94%A9%EC%9D%84-%EC%A7%80%ED%83%B1%ED%95%98%EB%8A%94-%EA%B8%B0%EC%88%A0)
