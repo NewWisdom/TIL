@@ -41,6 +41,7 @@
 ## WoowaCourse
 ### level1
 * [[우아한 테크코스 : Level 1] 자동차 경주 게임 코드 리뷰 정리 / 2021.02.09-2021.02.15](https://velog.io/@new_wisdom/%EC%9A%B0%EC%95%84%ED%95%9C-%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-Level-1-%EC%9E%90%EB%8F%99%EC%B0%A8-%EA%B2%BD%EC%A3%BC-%EA%B2%8C%EC%9E%84-1%EB%8B%A8%EA%B3%84-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0-%EC%A0%95%EB%A6%AC)
+* [[강의] Level 1. TDD 강의 정리](https://velog.io/@new_wisdom/02.16-%EA%B0%95%EC%9D%98)
 
 ## Books
 ### 객체지향의 사실과 오해
