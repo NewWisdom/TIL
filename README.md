@@ -24,7 +24,6 @@
 * [[assertJ] 공식문서와 함께하는 assertJ 정리 / 2021.02.05](https://velog.io/@new_wisdom/assertJ-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-assertJ-%EC%A0%95%EB%A6%AC)
 * [[Java] String vs StringBuffer vs StringBuilder / 2021.02.15](https://velog.io/@new_wisdom/Java-String-vs-StringBuffer-vs-StringBuilder)
 * [[Java] 불변 객체 (Immutable Class) / 2021.02.15](https://velog.io/@new_wisdom/Java-%EB%B6%88%EB%B3%80-%EA%B0%9D%EC%B2%B4-Immutable-Class)
-
 * [[Java] Enum 열거형](https://velog.io/@new_wisdom/Java-Enum-%EC%97%B4%EA%B1%B0%ED%98%95)
 
 #### Effective java
