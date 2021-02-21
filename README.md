@@ -28,6 +28,7 @@
 
 #### Effective java
 * [[Effective java] item 1. 생성자 대신 정적 팩터리 메서드를 고려하라 / 2021.02.14](https://velog.io/@new_wisdom/Effective-java-item-1.-%EC%83%9D%EC%84%B1%EC%9E%90-%EB%8C%80%EC%8B%A0-%EC%A0%95%EC%A0%81-%ED%8C%A9%ED%84%B0%EB%A6%AC-%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC-%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC)
+* [[Effective java] item 28. 배열보다는 리스트를 사용하라 / 2021.02.16](https://velog.io/@new_wisdom/Effective-java-item-28.-%EB%B0%B0%EC%97%B4%EB%B3%B4%EB%8B%A4%EB%8A%94-%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC)
 * [[Effective java] item 34. int 상수 대신 열거 타입을 사용하라](https://velog.io/@new_wisdom/Effective-java-item-34.-int-%EC%83%81%EC%88%98-%EB%8C%80%EC%8B%A0-%EC%97%B4%EA%B1%B0-%ED%83%80%EC%9E%85%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC)
 ### Spring
 
