@@ -46,7 +46,7 @@
 ### level1
 * [[우아한 테크코스 : Level 1] 자동차 경주 게임 코드 리뷰 정리 / 2021.02.09-2021.02.15](https://velog.io/@new_wisdom/%EC%9A%B0%EC%95%84%ED%95%9C-%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-Level-1-%EC%9E%90%EB%8F%99%EC%B0%A8-%EA%B2%BD%EC%A3%BC-%EA%B2%8C%EC%9E%84-1%EB%8B%A8%EA%B3%84-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0-%EC%A0%95%EB%A6%AC)
 * [[강의] Level 1. TDD 강의 정리](https://velog.io/@new_wisdom/02.16-%EA%B0%95%EC%9D%98)
-
+* [[Java] Exception에 대하여 / 2021.02.24](https://velog.io/@new_wisdom/Exception)
 ## Books
 ### 객체지향의 사실과 오해
 * [1. 협력하는 객체들의 공동체 / 2021.01.22](https://velog.io/@new_wisdom/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%82%AC%EC%8B%A4%EA%B3%BC-%EC%98%A4%ED%95%B4-01-%ED%98%91%EB%A0%A5%ED%95%98%EB%8A%94-%EA%B0%9D%EC%B2%B4%EB%93%A4%EC%9D%98-%EA%B3%B5%EB%8F%99%EC%B2%B4)
