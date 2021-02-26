@@ -25,6 +25,7 @@
 * [[Java] String vs StringBuffer vs StringBuilder / 2021.02.15](https://velog.io/@new_wisdom/Java-String-vs-StringBuffer-vs-StringBuilder)
 * [[Java] 불변 객체 (Immutable Class) / 2021.02.15](https://velog.io/@new_wisdom/Java-%EB%B6%88%EB%B3%80-%EA%B0%9D%EC%B2%B4-Immutable-Class)
 * [[Java] Enum 열거형](https://velog.io/@new_wisdom/Java-Enum-%EC%97%B4%EA%B1%B0%ED%98%95)
+* [[Java] Stream 부수기 / 2021.02.26](https://velog.io/@new_wisdom/Java-Stream-1)
 
 #### Effective java
 * [[Effective java] item 1. 생성자 대신 정적 팩터리 메서드를 고려하라 / 2021.02.14](https://velog.io/@new_wisdom/Effective-java-item-1.-%EC%83%9D%EC%84%B1%EC%9E%90-%EB%8C%80%EC%8B%A0-%EC%A0%95%EC%A0%81-%ED%8C%A9%ED%84%B0%EB%A6%AC-%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC-%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC)
